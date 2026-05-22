@@ -1,0 +1,17 @@
+sprite LFLEMONCANDY, 64, 64 {
+    patch "graphics/lemoncandy.png", 0, 0
+    xscale 2
+    yscale 2
+}
+
+
+sprite LFIDA0, 16, 16 {
+    offset 8, 8
+    patch "graphics/instantdeathium.png", 0, 0
+}
+
+
+sprite LFTPA0, 16, 16 {
+    offset 8, 8
+    patch "graphics/teleportatium.png", 0, 0
+}

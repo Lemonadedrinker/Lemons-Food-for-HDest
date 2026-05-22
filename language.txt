@@ -1,0 +1,55 @@
+[enu default]
+
+// Grabbag
+LF_GRABBAG_PICKUP = "You found Lemon's Grabbag!";
+LF_GRABBAG_DESCRIPTION = "A collection of \"Lemon's favorite snacks!\", which is questionable at best.";
+LF_GRABBAG_TAG = "Lemon's Grabbag";
+LF_GRABBAG_OPEN = "Holy moly, what is that!?";
+
+
+// ============================================================
+// Foods
+// ============================================================
+
+
+// Congratulations Steak
+LF_CONGRATULATIONSSTEAK_PICKUP = "Picked up a delightful Congratulations Steak.";
+LF_CONGRATULATIONSSTEAK_DESCRIPTION = "This steak is cooked to perfection: the beef has been browned all the way through without any visible raw meat. The meal includes a few complementary paper towels for sopping up that nasty steak juice, as well as ketchup packets for a delightful taste sensation.";
+LF_CONGRATULATIONSSTEAK_TAG = "Congratulations Steak";
+LF_CONGRATULATIONSSTEAK_OPEN1 = "Delicious.";
+LF_CONGRATULATIONSSTEAK_OPEN2 = "Mmmmmm...";
+LF_CONGRATULATIONSSTEAK_OPEN3 = "Yum!";
+LF_CONGRATULATIONSSTEAK_CONSUME1 = "Delicious...";
+LF_CONGRATULATIONSSTEAK_CONSUME2 = "Reminds me of Ohio...";
+LF_CONGRATULATIONSSTEAK_CONSUME3 = "So tender...";
+
+
+// Lemon Candy
+LF_LEMONCANDY_PICKUP = "Picked up some Lemon Candy! Wait a minute...";
+LF_LEMONCANDY_DESCRIPTION = "This deceptively-named candy was inspired by some weirdo named Lemon, whose rise to fame started with their famously untested mods and skillfully amateur fanart. This candy, while named \"Lemon Candy\", is actually ube flavored.";
+LF_LEMONCANDY_TAG = "Lemon Candy";
+LF_LEMONCANDY_OPEN1 = "I thought this was lemon-flavored!";
+LF_LEMONCANDY_OPEN2 = "Is this even edible??";
+LF_LEMONCANDY_OPEN3 = "Looks like plastic...";
+LF_LEMONCANDY_CONSUME1 = "This has a rich, chalky texture.";
+LF_LEMONCANDY_CONSUME2 = "Tastes like corn syrup with a hint of ube.";
+LF_LEMONCANDY_CONSUME3 = "The flavor is diabolical.";
+
+
+// ============================================================
+// Drinks
+// ============================================================
+
+
+// Instant Deathium
+LF_DEATHIUM_PICKUP = "Picked up an Instant Deathium Potion. Oh no...";
+LF_DEATHIUM_DESCRIPTION = "A round-bottom flask of some kind containing an inky black liquid. There's a label on the side with the words \"Instant Deathium: Enough calories for the rest of your life!\"";
+LF_DEATHIUM_TAG = "Instant Deathium Potion";
+LF_DEATHIUM_CONSUME1 = "Cause of death: \'midas\'";
+
+
+// Teleportatium
+LF_TELEPORTATIUM_PICKUP = "Picked up a Teleportatium Potion.";
+LF_TELEPORTATIUM_DESCRIPTION = "A round-bottom flask of some kind containing a pale blue liquid.";
+LF_TELEPORTATIUM_TAG = "Teleportatium Potion";
+LF_TELEPORTATIUM_CONSUME1 = "Teleported!";
