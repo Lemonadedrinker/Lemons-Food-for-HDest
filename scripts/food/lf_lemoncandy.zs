@@ -4,7 +4,8 @@ class LF_LemonCandy : UaS_Consumable
         UaS_Consumable.Calories 300;
         UaS_Consumable.Fluid -50;
         UaS_Consumable.Bulk 3;
-        UaS_Consumable.SpoilRate 0.001;
+        UaS_Consumable.SpoilRate 0.01;
+        +UaS_Consumable.PACKAGED;
         +UaS_Consumable.RESEALABLE;
         Inventory.PickupMessage "$LF_LEMONCANDY_PICKUP";
         UaS_Consumable.Description "$LF_LEMONCANDY_DESCRIPTION";
@@ -23,6 +24,7 @@ class LF_LemonCandy : UaS_Consumable
         AddOpenText("$LF_LEMONCANDY_OPEN1");
         AddOpenText("$LF_LEMONCANDY_OPEN2");
         AddOpenText("$LF_LEMONCANDY_OPEN3");
+        AddOpenText("$LF_LEMONCANDY_OPEN4");
         AddConsumeText("$LF_LEMONCANDY_CONSUME1");
         AddConsumeText("$LF_LEMONCANDY_CONSUME2");
         AddConsumeText("$LF_LEMONCANDY_CONSUME3");

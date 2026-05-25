@@ -1,3 +1,12 @@
+// BFG Cake
+sprite LFBFA0, 61, 36 {
+    offset 31, 38
+    // Makes the light pink
+    // https://zdoom.org/w/index.php?title=Palette
+    patch "BFUGA0", 0, 0 { Translation "176:183=250:254" }
+}
+
+// Lemon Candy
 sprite LFLEMONCANDY, 64, 64 {
     patch "graphics/lemoncandy.png", 0, 0
     xscale 2
@@ -5,12 +14,21 @@ sprite LFLEMONCANDY, 64, 64 {
 }
 
 
+// Boba Pilk
+sprite LFBPA0, 45, 53 {
+    offset 22, 26
+    patch "graphics/bobapilk.png", 0, 0
+    xscale 2
+    yscale 2
+}
+
+// Instant Deathium Potion
 sprite LFIDA0, 16, 16 {
     offset 8, 8
     patch "graphics/instantdeathium.png", 0, 0
 }
 
-
+// Teleportatium Potion
 sprite LFTPA0, 16, 16 {
     offset 8, 8
     patch "graphics/teleportatium.png", 0, 0

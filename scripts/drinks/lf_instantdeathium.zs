@@ -30,9 +30,20 @@ class LF_InstantDeathium : UaS_Consumable
         if (!owner) return;
 
         // Flags from https://zdoom.org/w/index.php?title=DamageMobj
-        owner.DamageMobj(owner, null, 500, 'deathium', 2047);
+        Actor gods = Spawn("NoitaGods");
+        owner.DamageMobj(gods, null, 500, 'deathium', 2047);
 
         // Delete the potion, 
         //GoAwayAndDie();
+    }
+}
+
+// Used to send the information to the Lemon's Custom Death Sounds mod
+class NoitaGods : Actor
+{
+    // Used to instantly delete this actor in case it ever gets spawned in somehow
+    override void Tick()
+    {
+        Destroy();
     }
 }

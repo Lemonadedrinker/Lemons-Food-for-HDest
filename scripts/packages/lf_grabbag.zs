@@ -29,10 +29,12 @@ class LF_Grabbag : UaS_Consumable
     override void Contents()
     {
         // Food
+        AddItem("LF_BFGCake");
         AddItem("LF_LemonCandy");
         AddItem("LF_CongratulationsSteak");
 
         // Liquid
+        AddItem("LF_BobaPilk");
         AddItem("LF_InstantDeathium");
         AddItem("LF_Teleportatium");
     }

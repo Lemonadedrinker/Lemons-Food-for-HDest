@@ -12,6 +12,18 @@ LF_GRABBAG_OPEN = "Holy moly, what is that!?";
 // ============================================================
 
 
+// BFG Cake
+LF_BFGCAKE_PICKUP = "You got the BFG 9000 Cake! Oh yes.";
+LF_BFGCAKE_DESCRIPTION = "The 'everything is cake' trend from the early 21st century was a mistake.";
+LF_BFGCAKE_TAG = "BFG 9000 Cake";
+LF_BFGCAKE_OPEN1 = "Disappointing...";
+LF_BFGCAKE_OPEN2 = "Fiddlesticks...";
+LF_BFGCAKE_OPEN3 = "Gosh darn it...";
+LF_BFGCAKE_CONSUME1 = "Tastes vaguely like green apple.";
+LF_BFGCAKE_CONSUME2 = "The fondant tastes and feels pretty cheap.";
+LF_BFGCAKE_CONSUME3 = "I could have had a better gun...";
+
+
 // Congratulations Steak
 LF_CONGRATULATIONSSTEAK_PICKUP = "Picked up a delightful Congratulations Steak.";
 LF_CONGRATULATIONSSTEAK_DESCRIPTION = "This steak is cooked to perfection: the beef has been browned all the way through without any visible raw meat. The meal includes a few complementary paper towels for sopping up that nasty steak juice, as well as ketchup packets for a delightful taste sensation.";
@@ -31,6 +43,7 @@ LF_LEMONCANDY_TAG = "Lemon Candy";
 LF_LEMONCANDY_OPEN1 = "I thought this was lemon-flavored!";
 LF_LEMONCANDY_OPEN2 = "Is this even edible??";
 LF_LEMONCANDY_OPEN3 = "Looks like plastic...";
+LF_LEMONCANDY_OPEN4 = "Make sure to ask if anyone wants any!";
 LF_LEMONCANDY_CONSUME1 = "This has a rich, chalky texture.";
 LF_LEMONCANDY_CONSUME2 = "Tastes like corn syrup with a hint of ube.";
 LF_LEMONCANDY_CONSUME3 = "The flavor is diabolical.";
@@ -39,6 +52,15 @@ LF_LEMONCANDY_CONSUME3 = "The flavor is diabolical.";
 // ============================================================
 // Drinks
 // ============================================================
+
+
+// Boba Pilk
+LF_BOBAPILK_PICKUP = "Found some Blueberry Boba Whole Pilk Zero!";
+LF_BOBAPILK_DESCRIPTION = "The note on the side simply reads: \'Hear me out...\'";
+LF_BOBAPILK_TAG = "Boba Pilk";
+LF_BOBAPILK_CONSUME1 = "Honestly? Not too bad.";
+LF_BOBAPILK_CONSUME2 = "The boba adds a subtle blueberry flavor.";
+LF_BOBAPILK_CONSUME3 = "Tastes almost like an ice cream float!";
 
 
 // Instant Deathium

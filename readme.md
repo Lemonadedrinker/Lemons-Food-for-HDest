@@ -16,4 +16,19 @@ You can use Lemon's Grabbag to spawn in every other item added by this mod!
 The loadout code is LGR.
 ![Lemon's Grabbag](./previews/lemonsgrabbag.jpg)
 
+# Spoilers
+<details>
+    <summary>List of everything added by this mod:</summary>
+
+        * Lemon's Grabbag
+        * BFG Cake
+        * Congratulations Steak
+        * Lemon Candy
+        * Boba Pilk
+        * Instant Deathium Potion
+        * Teleportatium Potion
+
+
+</details>
+
 # [Credits](./credits.md)

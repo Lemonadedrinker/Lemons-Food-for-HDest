@@ -4,7 +4,7 @@ class LF_CongratulationsSteak : UaS_Consumable
         UaS_Consumable.Calories 1250;
         UaS_Consumable.Fluid 200;
         UaS_Consumable.Bulk 8;
-        UaS_Consumable.SpoilRate 1;
+        UaS_Consumable.SpoilRate 0.5;
         +UaS_Consumable.RESEALABLE;
         Inventory.PickupMessage "$LF_CONGRATULATIONSSTEAK_PICKUP";
         UaS_Consumable.Description "$LF_CONGRATULATIONSSTEAK_DESCRIPTION";
@@ -23,6 +23,7 @@ class LF_CongratulationsSteak : UaS_Consumable
         AddOpenText("$LF_CONGRATULATIONSSTEAK_OPEN1");
         AddOpenText("$LF_CONGRATULATIONSSTEAK_OPEN2");
         AddOpenText("$LF_CONGRATULATIONSSTEAK_OPEN3");
+
         AddConsumeText("$LF_CONGRATULATIONSSTEAK_CONSUME1");
         AddConsumeText("$LF_CONGRATULATIONSSTEAK_CONSUME2");
         AddConsumeText("$LF_CONGRATULATIONSSTEAK_CONSUME3");
