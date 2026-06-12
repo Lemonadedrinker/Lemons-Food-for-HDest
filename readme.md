@@ -31,6 +31,6 @@ The loadout code is LGR.
 <br>
 Live footage of the player reading the food labels probably:
 
-![The Player Probably](./previews/skeleton-meme-skeleton.gif)
+![The Player Probably](https://media1.tenor.com/m/bpgr6UuTUNEAAAAd/skeleton-meme-skeleton.gif)
 
 # [Credits](./credits.md)
