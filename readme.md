@@ -27,8 +27,10 @@ The loadout code is LGR.
         * Boba Pilk
         * Instant Deathium Potion
         * Teleportatium Potion
-
-
 </details>
+<br>
+Live footage of the player reading the food labels probably:
+
+![The Player Probably](./previews/skeleton-meme-skeleton.gif)
 
 # [Credits](./credits.md)
